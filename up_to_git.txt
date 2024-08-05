@@ -1,0 +1,8 @@
+git add .
+
+git commit -m "Thông điệp mô tả thay đổi"
+
+git pull origin <branch_name>
+
+git push origin <branch_name>
+
